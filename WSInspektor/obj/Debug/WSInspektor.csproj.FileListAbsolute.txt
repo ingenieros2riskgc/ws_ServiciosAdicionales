@@ -1,0 +1,11 @@
+D:\Workspace\Inspektor\Fuentes\Webservice_OtrosServicios\WSInspektor\bin\WSInspektor.dll.config
+D:\Workspace\Inspektor\Fuentes\Webservice_OtrosServicios\WSInspektor\bin\WSInspektor.dll
+D:\Workspace\Inspektor\Fuentes\Webservice_OtrosServicios\WSInspektor\bin\WSInspektor.pdb
+D:\Workspace\Inspektor\Fuentes\Webservice_OtrosServicios\WSInspektor\bin\AWSSDK.Core.dll
+D:\Workspace\Inspektor\Fuentes\Webservice_OtrosServicios\WSInspektor\bin\Encryption.dll
+D:\Workspace\Inspektor\Fuentes\Webservice_OtrosServicios\WSInspektor\bin\AWSSDK.Core.pdb
+D:\Workspace\Inspektor\Fuentes\Webservice_OtrosServicios\WSInspektor\bin\AWSSDK.Core.xml
+D:\Workspace\Inspektor\Fuentes\Webservice_OtrosServicios\WSInspektor\obj\Debug\WSInspektor.csprojAssemblyReference.cache
+D:\Workspace\Inspektor\Fuentes\Webservice_OtrosServicios\WSInspektor\obj\Debug\WSInspektor.csproj.CopyComplete
+D:\Workspace\Inspektor\Fuentes\Webservice_OtrosServicios\WSInspektor\obj\Debug\WSInspektor.dll
+D:\Workspace\Inspektor\Fuentes\Webservice_OtrosServicios\WSInspektor\obj\Debug\WSInspektor.pdb

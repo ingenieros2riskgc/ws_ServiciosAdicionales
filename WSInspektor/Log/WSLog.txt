@@ -1,0 +1,93 @@
+﻿ERROR PRD_2:El procedimiento o la función 'SP_ConsultaPrioridad2' esperaba el parámetro '@IdEmpresa', que no se ha especificado.,    en System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   en System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   en WSInspektor.Classes.cDataBase.ejecutarConsulta(String txtQuery) en E:\TFS\Inspektor\Fuentes\Webservice\WSInspektor\Classes\cDataBase.cs:línea 43
+   en WSInspektor.Classes.cInspektor.ConsultaDocumento(String documento, String notin) en E:\TFS\Inspektor\Fuentes\Webservice\WSInspektor\Classes\cInspektor.cs:línea 49 24/09/2019 15:25:27
+El procedimiento o la función 'SP_ConsultaPrioridad2' esperaba el parámetro '@IdEmpresa', que no se ha especificado. 24/09/2019 15:25:27
+ERROR PRD_2:El procedimiento o la función 'SP_ConsultaPrioridad2' esperaba el parámetro '@IdEmpresa', que no se ha especificado.,    en System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   en System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   en WSInspektor.Classes.cDataBase.ejecutarConsulta(String txtQuery) en E:\TFS\Inspektor\Fuentes\Webservice\WSInspektor\Classes\cDataBase.cs:línea 43
+   en WSInspektor.Classes.cInspektor.ConsultaDocumento(String documento, String notin) en E:\TFS\Inspektor\Fuentes\Webservice\WSInspektor\Classes\cInspektor.cs:línea 49 24/09/2019 15:25:36
+El procedimiento o la función 'SP_ConsultaPrioridad2' esperaba el parámetro '@IdEmpresa', que no se ha especificado. 24/09/2019 15:25:36
+ERROR PRD_1: ConsultaDocumentoNombre >> Falta la comilla de cierre después de la cadena de caracteres ''.
+Sintaxis incorrecta cerca de '11'.,    en System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   en System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   en WSInspektor.Classes.cDataBase.ejecutarConsulta(String txtQuery) en E:\TFS\Inspektor\Fuentes\Webservice\WSInspektor\Classes\cDataBase.cs:línea 43
+   en WSInspektor.Classes.cInspektor.ConsultaDocumentoNombre(String documento, String nombre, String StrIdEmpresa, String notin) en E:\TFS\Inspektor\Fuentes\Webservice\WSInspektor\Classes\cInspektor.cs:línea 27 24/09/2019 15:34:39
+Falta la comilla de cierre después de la cadena de caracteres ''.
+Sintaxis incorrecta cerca de '11'. 24/09/2019 15:34:39
+ERROR PRD_1: ConsultaDocumentoNombre >> Falta la comilla de cierre después de la cadena de caracteres ''.
+Sintaxis incorrecta cerca de '11'.,    en System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   en System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   en WSInspektor.Classes.cDataBase.ejecutarConsulta(String txtQuery) en E:\TFS\Inspektor\Fuentes\Webservice\WSInspektor\Classes\cDataBase.cs:línea 43
+   en WSInspektor.Classes.cInspektor.ConsultaDocumentoNombre(String documento, String nombre, String StrIdEmpresa, String notin) en E:\TFS\Inspektor\Fuentes\Webservice\WSInspektor\Classes\cInspektor.cs:línea 27 24/09/2019 15:34:47
+Falta la comilla de cierre después de la cadena de caracteres ''.
+Sintaxis incorrecta cerca de '11'. 24/09/2019 15:34:47
+ERROR PRD_1: ConsultaDocumentoNombre >> Falta la comilla de cierre después de la cadena de caracteres ''.
+Sintaxis incorrecta cerca de '11'.,    en System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   en System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   en WSInspektor.Classes.cDataBase.ejecutarConsulta(String txtQuery) en E:\TFS\Inspektor\Fuentes\Webservice\WSInspektor\Classes\cDataBase.cs:línea 43
+   en WSInspektor.Classes.cInspektor.ConsultaDocumentoNombre(String documento, String nombre, String StrIdEmpresa, String notin) en E:\TFS\Inspektor\Fuentes\Webservice\WSInspektor\Classes\cInspektor.cs:línea 27 24/09/2019 15:35:09
+Falta la comilla de cierre después de la cadena de caracteres ''.
+Sintaxis incorrecta cerca de '11'. 24/09/2019 15:35:09
+ERROR PRD_1: ConsultaDocumentoNombre >> Falta la comilla de cierre después de la cadena de caracteres ''.
+Sintaxis incorrecta cerca de '11'.,    en System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   en System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   en System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   en WSInspektor.Classes.cDataBase.ejecutarConsulta(String txtQuery) en E:\TFS\Inspektor\Fuentes\Webservice\WSInspektor\Classes\cDataBase.cs:línea 43
+   en WSInspektor.Classes.cInspektor.ConsultaDocumentoNombre(String documento, String nombre, String StrIdEmpresa, String notin) en E:\TFS\Inspektor\Fuentes\Webservice\WSInspektor\Classes\cInspektor.cs:línea 27 24/09/2019 15:36:17
+Falta la comilla de cierre después de la cadena de caracteres ''.
+Sintaxis incorrecta cerca de '11'. 24/09/2019 15:36:17
+No es posible conectar con el servidor remoto,    en System.Net.HttpWebRequest.GetResponse()
+   en WSInspektor.WSInspektor.ConsultaProcuraduria(String TipoIden, String NumeIden) en D:\Workspace\Inspektor\Fuentes\Webservice_OtrosServicios\WSInspektor\WSInspektor.asmx.cs:línea 558 06/11/2020 7:31:06
+El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.0 Authentication Required. Learn more at,    en System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   en System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   en System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   en System.Net.Mail.SmtpClient.Send(MailMessage message)
+   en WSInspektor.Classes.cNotificaciones.EnviarCorreo(String IdConsultaEmpresa, String Prioridad, String Numeiden, String Nombre, String Para, String NombreUsuario) en D:\Workspace\Inspektor\Fuentes\Webservice_OtrosServicios\WSInspektor\Classes\cNotificaciones.cs:línea 82 12/01/2021 9:08:03

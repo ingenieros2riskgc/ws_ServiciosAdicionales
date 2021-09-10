@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\Inspektor\Fuentes\WS-Inspektor(Individual)\WebService\05.WS-Inspektor(Individual)_Ver_1.6.0\Publicaciones\08-02-2016" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Perfil1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Log/WSLog.txt" publishTime="02/08/2016 16:39:25" />
+    <file relUrl="bin/WSInspektor.pdb" publishTime="02/08/2016 16:39:56" />
+    <file relUrl="bin/WSInspektor.dll" publishTime="02/08/2016 16:39:56" />
+    <file relUrl="Web.config" publishTime="02/08/2016 16:40:21" />
+    <file relUrl="bin/Encryption.pdb" publishTime="11/13/2012 12:40:40" />
+    <file relUrl="bin/Encryption.dll" publishTime="11/13/2012 12:40:40" />
+    <file relUrl="bin/Encryption.xml" publishTime="11/13/2012 12:40:40" />
+    <file relUrl="WSInspektor.asmx" publishTime="11/13/2014 15:16:44" />
+  </publishProfile>
+</publishData>
